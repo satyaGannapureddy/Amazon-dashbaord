@@ -5,7 +5,7 @@ This repository presents an interactive **Amazon Sales Analytics Dashboard** cre
 ## 📊 Dashboard Preview
 Click the image below to explore the **interactive Tableau dashboard**:
 
-[![Amazon Sales Dashboard](images/dashboard.png)]
+[![Amazon Sales Dashboard](Dashboard 1.png)]
 
 ## 🔍 Business Overview
 The dashboard provides a comprehensive view of Amazon sales performance by tracking:
